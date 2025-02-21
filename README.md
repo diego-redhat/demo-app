@@ -1,4 +1,4 @@
-# golang-demo
+# demo-app
 
 
 
